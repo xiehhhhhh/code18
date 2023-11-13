@@ -2,7 +2,7 @@
 #include<iostream>
 #include<algorithm>
 using namespace std;
- 
+  
 //贪心小船过河
 int main()
 {
